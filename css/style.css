@@ -1,0 +1,77 @@
+.back{
+    background-image:url(../img/wedo.jpg);
+    text-align: center;
+    text-transform: capitalize;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.wedding{
+    background-image: url(../img/leo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    background-position: center;
+    text-align: center;
+    color: aliceblue;
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.navbar {
+    color: darkgray;
+    padding:20px;
+    width:25%px;
+    background-color:darkslateblue;
+    background-size: cover;
+}
+.about{
+    background-color:wheat;
+    background-position: center;
+    text-align: center;
+}
+.wedo{
+    height: 35px;
+}
+.back{
+    text-transform: uppercase;
+    color: cornsilk;
+    background-size: cover;
+}
+.contain{
+    text-align: center;
+    background-size: cover;
+    background-color: wheat;
+}
+
+.today{
+    text-align: center;
+    background-color: whitesmoke;
+    
+}
+
+.get{
+    background-color: teal;
+    cursor: pointer;
+}
+#idol{
+    background-color: thistle;
+    
+}
+.wide{
+    align-content: center;
+}
+.lik{
+    background-color: teal;
+}
+.kil{
+    background-color: tomato;
+}
+footer{
+    background-color: blue;
+    text-align: center;
+}
+
+@media(max-width:768px){
+    .nav,.about,
+}
