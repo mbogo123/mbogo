@@ -71,7 +71,9 @@ footer{
     background-color: blue;
     text-align: center;
 }
-
-@media(max-width:768px){
-    .nav,.about,
+@media (max-width:768px){
+    .navbar,.about,.back,.wedding,.wedo,.contain,.today,.get,.wide,.lik,.kil{
+        text-align: center;
+        width: 100%;
+    }
 }
